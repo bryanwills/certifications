@@ -12,13 +12,7 @@ Code Louisville is a program of KentuckianaWorks. It is funded by the Louisville
 
 #### Front End Web Development 2 Project Repo [https://github.com/bryanwills/shorty](https://github.com/bryanwills/shorty)
 #### Created a URL shortener website/web app using the following tech stack
-#### NextJS
-#### TypeScript
-#### Prettier
-#### TailwindCSS3
-#### PostCSS
-#### Autoprefixer
-#### PrismaDB
+#### NextJS, TypeScript, Prettier, TailwindCSS3, PostCSS, Autoprefixer, PrismaDB
 
 #### In this project, I ask the user to input a valid long URL that they want to shorten. The user inputs a URL of their choice, then I have a regex expression that runs validation against the URL inputted, then I use a generateId function to create a unique linkId for the user. My app will check to see if the shortened URL already exists and if it does exist, the app will return the linkId already used. If not, it will generate a new one and it will store this information in the Prisma database that I am using to store the generated linkId IDs which consists of 8 characters from the generateId function. I use a dyanmic route with [linkId].tsx to reroute the user from the shortened URL to the long URL they wanted to shorten.
 
@@ -27,3 +21,4 @@ Code Louisville is a program of KentuckianaWorks. It is funded by the Louisville
 #### Website Description: Use raw data to find trends and answer questions. You'll learn crucial Python and SQL skills necessary for advanced analytics.
 
 #### Project repo [https://github.com/bryanwills/python_codelou](https://github.com/bryanwills/python_codelou)
+#### This project scrapes data using Python from a website, realtor.ca and extracts specific data to a Pandas Dataframe for analysis. The project can be ran locally and is also hosted on a Google Colab Notebook. I had the project running on a VPS as well, but that site is currently not working. The data is exported to an XLSX file for further analysis or can be used to email to someone.
