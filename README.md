@@ -6,7 +6,6 @@ Code Louisville is a program of KentuckianaWorks. It is funded by the Louisville
 ### Code Louisville FEWD 1 & 2 Courses
 #### Website Description of the course: Learn how to build, create, and maintain websites. Front-end developers craft the look and feel of a website that is visible to the end user. They use HTML, CSS, and JavaScript to create the user interface and experience. Front-end developers are also responsible for making sure that the website is responsive, meaning that it works on all devices and screen sizes.
 
-
 #### Front End Web Development 1 Project Repo [https://github.com/bryanwills/CodeLouisville](https://github.com/bryanwills/CodeLouisville)
 #### Created a basic portfolio website using HTML, CSS, and JavaScript. The website is responsive and works on all devices and screen sizes.
 
@@ -17,7 +16,7 @@ Code Louisville is a program of KentuckianaWorks. It is funded by the Louisville
 #### In this project, I ask the user to input a valid long URL that they want to shorten. The user inputs a URL of their choice, then I have a regex expression that runs validation against the URL inputted, then I use a generateId function to create a unique linkId for the user. My app will check to see if the shortened URL already exists and if it does exist, the app will return the linkId already used. If not, it will generate a new one and it will store this information in the Prisma database that I am using to store the generated linkId IDs which consists of 8 characters from the generateId function. I use a dyanmic route with [linkId].tsx to reroute the user from the shortened URL to the long URL they wanted to shorten.
 
 
-#### Code Louisville Data Analysis with Python Course
+### Code Louisville Data Analysis with Python Course
 #### Website Description: Use raw data to find trends and answer questions. You'll learn crucial Python and SQL skills necessary for advanced analytics.
 
 #### Project repo [https://github.com/bryanwills/python_codelou](https://github.com/bryanwills/python_codelou)
