@@ -2,23 +2,11 @@ This repo is a public collection of the certificates of completion or certificat
 
 ## Certifications obtained through work.
 
-#### Went through OpsRamp Implementation Specialist training that covered installing a new OpsRamp gateway to a network, discover all devices on
-
-#### the network and use that data to provide support for our customers equipment.
+#### Went through OpsRamp Implementation Specialist training that covered installing a new OpsRamp gateway to a network, discover all devices on the network and use that data to provide support for our customers equipment.
 
 ## Code Louisville Certifications
 
-### Code Louisville is a program of KentuckianaWorks. It is funded by the Louisville Metro Government and the
-
-### Kentucky Cabinet for Economic Development. It is a free, part-time, 12-week software development training
-
-### course in Louisville, KY. The program is open to anyone interested in learning more about software development.
-
-### The program is designed to help people with no prior experience to gain the skills they need to pursue careers
-
-### in the technology field. The program is also open to people with some experience in software development who
-
-### want to learn new skills.
+### Code Louisville is a program of KentuckianaWorks. It is funded by the Louisville Metro Government and the Kentucky Cabinet for Economic Development. It is a free, part-time, 12-week software development training course in Louisville, KY. The program is open to anyone interested in learning more about software development. The program is designed to help people with no prior experience to gain the skills they need to pursue careers in the technology field. The program is also open to people with some experience in software development who want to learn new skills.
 
 ### Code Louisville FEWD 1 & 2 Courses
 
